@@ -3,7 +3,7 @@
  *
  *  Created on: 8 feb. 2019
  *  Created by: Jelle Huiberts @ Ontehinx
- *  Intercace between the "Onethinx module" and the nextion display
+ *  Communicate between the "Onethinx module" and a nextion display
  */
 
 #ifndef _ONETHINXNEXTION_ONETHINXNEXTION_H_
