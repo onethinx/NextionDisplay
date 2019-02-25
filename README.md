@@ -1,4 +1,4 @@
-# NextionDisplay
+# NextionDisplay Library
 A library to interface from the onethinx module to a nextion display
 
 ## Feature requests and issues
